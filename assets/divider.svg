@@ -1,0 +1,32 @@
+<svg width="800" height="40" viewBox="0 0 800 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGradLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="lineGradRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="sparkGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Left line -->
+  <line x1="20" y1="20" x2="370" y2="20" stroke="url(#lineGradLeft)" stroke-width="1.4"/>
+
+  <!-- Right line -->
+  <line x1="430" y1="20" x2="780" y2="20" stroke="url(#lineGradRight)" stroke-width="1.4"/>
+
+  <!-- Center sparkle (four-point star) -->
+  <g filter="url(#sparkGlow)">
+    <path d="M400,8 L403.2,17 L412,20 L403.2,23 L400,32 L396.8,23 L388,20 L396.8,17 Z"
+          fill="#F8E28A"/>
+    <circle cx="400" cy="20" r="1.6" fill="#ffffff"/>
+  </g>
+</svg>
