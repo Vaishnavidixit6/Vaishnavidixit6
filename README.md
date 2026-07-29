@@ -34,4 +34,6 @@ In progress: a machine learning and geospatial analysis tool for road infrastruc
 
 ## Connect
 
+Open to conversations, collaboration, and the occasional owl post.
+
 [LinkedIn](https://www.linkedin.com/in/vaishnavidixit6) · [Kaggle](https://www.kaggle.com/vaishnavidixit6) · [Email](mailto:vaishnavidixit@mail.adelphi.edu)
