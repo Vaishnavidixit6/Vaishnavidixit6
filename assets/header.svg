@@ -66,16 +66,6 @@
     <animate attributeName="opacity" values="0;0.55;1;0.35;0" dur="4s" begin="0.4s" fill="freeze"/>
   </g>
 
-  <g opacity="0">
-    <path d="M942,183 C964,156 990,190 1015,169 C1038,150 1053,166 1072,148"
-          fill="none" stroke="#D4AF37" stroke-width="3.2" stroke-linecap="round"/>
-    <path d="M942,183 C964,156 990,190 1015,169 C1038,150 1053,166 1072,148"
-          fill="none" stroke="#F8E28A" stroke-width="0.75" stroke-linecap="round" opacity="0.75"/>
-    <path d="M1071,142 L1081,149 L1072,156 L1065,149 Z" fill="#D4AF37"/>
-    <circle cx="1075" cy="148" r="1" fill="#0B1026"/>
-    <animate attributeName="opacity" from="0" to="0.72" dur="0.9s" begin="4.5s" fill="freeze"/>
-  </g>
-
   <text x="600" y="92" text-anchor="middle" fill="#D4AF37" filter="url(#softGlow)"
         font-family="Consolas, 'Courier New', monospace" font-size="21" letter-spacing="2" opacity="0">&gt; LUMOS_
     <animate attributeName="opacity" values="0;1;1;0" dur="4s" begin="0.5s" fill="freeze"/>
