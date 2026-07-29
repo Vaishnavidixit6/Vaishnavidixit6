@@ -1,6 +1,6 @@
 # Vaishnavi Dixit
 
-Data Science graduate student interested in healthcare AI, applied machine learning, and useful data products.
+Data Science graduate student interested in healthcare AI and applied machine learning. I want to use data to help make healthcare more predictive, accessible, and affordable.
 
 ## Selected Projects
 
