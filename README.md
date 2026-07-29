@@ -14,6 +14,18 @@ I'm **Vaishnavi Dixit**, a Data Science graduate student building practical, res
   <img src="assets/divider.svg" width="60%">
 </p>
 
+## Research Interests
+
+- Healthcare AI
+- Biomedical Machine Learning
+- Responsible AI
+- Uncertainty Quantification
+- Statistical Modeling
+
+<p align="center">
+  <img src="assets/divider.svg" width="60%">
+</p>
+
 ## Projects
 
 ### Hospital Readmission Risk Prediction
@@ -27,19 +39,6 @@ Full-stack e-commerce platform built with **React, FastAPI, PostgreSQL,** and **
 
 ### Road Infrastructure Analysis *(In Progress)*
 Building a **Python**-based machine learning and geospatial analysis solution for road infrastructure.
-
-<p align="center">
-  <img src="assets/divider.svg" width="60%">
-</p>
-
-## Research Interests
-
-- Healthcare AI
-- Biomedical Machine Learning
-- Responsible AI
-- Uncertainty Quantification
-- Statistical Modeling
-- Large Language Models
 
 <p align="center">
   <img src="assets/divider.svg" width="60%">
@@ -68,8 +67,10 @@ Building a **Python**-based machine learning and geospatial analysis solution fo
 
 ## Contact
 
-- LinkedIn
-- Email
+Send an owl post to connect:
+
+- LinkedIn: https://www.linkedin.com/in/vaishnavidixit6
+- Email: vaishnavidixit@mail.adelphi.edu
 
 <p align="center">
   <img src="assets/divider.svg" width="60%">
