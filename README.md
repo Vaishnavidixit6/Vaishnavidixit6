@@ -66,8 +66,8 @@ Building a data-driven solution for road infrastructure analysis using machine l
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VaishnaviDixit&show_icons=true&theme=dark&hide_border=true&bg_color=0B1026&title_color=D4AF37&icon_color=F8E28A&text_color=dddad8"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviDixit&layout=compact&theme=dark&hide_border=true&bg_color=0B1026&title_color=D4AF37&text_color=dddad8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaishnavidixit6&show_icons=true&theme=dark&hide_border=true&bg_color=0B1026&title_color=D4AF37&icon_color=F8E28A&text_color=dddad8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavidixit6&layout=compact&theme=dark&hide_border=true&bg_color=0B1026&title_color=D4AF37&text_color=dddad8"/>
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ Building a data-driven solution for road infrastructure analysis using machine l
 ## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VaishnaviDixit/VaishnaviDixit/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Vaishnavidixit6/Vaishnavidixit6/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <p align="center">
