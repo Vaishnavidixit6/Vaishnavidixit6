@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm **Vaishnavi Dixit**, a Data Science graduate student building practical, responsible AI solutions for real-world problems.
+I'm **Vaishnavi Dixit**, a Data Science graduate student who enjoys working on healthcare-focused machine learning and turning messy data into useful tools.
 
 <p align="center">
   <img src="assets/divider.svg" width="60%">
@@ -29,16 +29,16 @@ I'm **Vaishnavi Dixit**, a Data Science graduate student building practical, res
 ## Projects
 
 ### Hospital Readmission Risk Prediction
-Machine learning system using **MIMIC-IV, Python, FastAPI, React,** and **Google BigQuery** to identify patients at high risk of readmission.
+A readmission-risk tool built with **MIMIC-IV, Python, FastAPI, React,** and **Google BigQuery**.
 
 ### Healthcare Abuse Detection
-Machine learning model using **Python** and **SDOH survey data** to identify likely unreported abuse cases.
+A **Python** model using SDOH survey data to surface potentially unreported abuse cases.
 
 ### Jewelry E-Commerce Website
-Full-stack e-commerce platform built with **React, FastAPI, PostgreSQL,** and **Docker**. Used a vibe-engineering workflow to rapidly prototype and refine the user experience.
+An e-commerce platform built with **React, FastAPI, PostgreSQL,** and **Docker**. I used a vibe-engineering workflow to prototype and refine the user experience.
 
 ### Road Infrastructure Analysis *(In Progress)*
-Building a **Python**-based machine learning and geospatial analysis solution for road infrastructure.
+Currently building a **Python**-based machine learning and geospatial analysis tool for road infrastructure.
 
 <p align="center">
   <img src="assets/divider.svg" width="60%">
