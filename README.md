@@ -1,4 +1,6 @@
-# Vaishnavi Dixit
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Vaishnavi Dixit — Lumos">
+</p>
 
 Data Science graduate student interested in healthcare AI and applied machine learning. I want to use data to help make healthcare more predictive, accessible, and affordable.
 
