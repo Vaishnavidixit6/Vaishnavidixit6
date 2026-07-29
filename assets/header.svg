@@ -39,9 +39,11 @@
   </g>
 
   <g opacity="0">
-    <line x1="176" y1="166" x2="292" y2="92" stroke="#A97834" stroke-width="5" stroke-linecap="round"/>
-    <line x1="180" y1="162" x2="295" y2="89" stroke="#E2C27A" stroke-width="1" stroke-linecap="round" opacity="0.72"/>
-    <circle cx="296" cy="88" r="3" fill="#F8E28A" filter="url(#softGlow)"/>
+    <path d="M166,174 C204,151 251,118 294,89" fill="none" stroke="#24160F" stroke-width="8" stroke-linecap="round"/>
+    <path d="M166,174 C204,151 251,118 294,89" fill="none" stroke="#633D27" stroke-width="5" stroke-linecap="round"/>
+    <path d="M171,171 C209,148 252,117 291,91" fill="none" stroke="#B4845E" stroke-width="1" stroke-linecap="round" opacity="0.55"/>
+    <path d="M158,179 L174,169" stroke="#382117" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="296" cy="88" r="2.4" fill="#F8E28A" filter="url(#softGlow)"/>
     <animate attributeName="opacity" values="0;1;1;0" dur="4.2s" begin="0s" fill="freeze"/>
   </g>
 
