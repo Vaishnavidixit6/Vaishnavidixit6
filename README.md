@@ -30,6 +30,13 @@ In progress: a machine learning and geospatial analysis tool for road infrastruc
 
 `Python` `Machine Learning` `Geospatial Analysis`
 
+## Achievements
+
+- Research article under review — *ASA CHANCE Magazine*
+- Presenter — NCUR 2025; Northeast Regional Honors Council Conference; Adelphi Scholarship & Creative Works Conference
+- Third Place — Nexus Tantra 2K26
+- Participant — Cornell Health Hackathon
+
 ## Research Interests
 
 `Healthcare AI` · `Biomedical Machine Learning` · `Uncertainty Quantification` · `Statistical Modeling` · `Responsible AI`
