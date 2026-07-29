@@ -67,7 +67,7 @@ Building a **Python**-based machine learning and geospatial analysis solution fo
 
 ## Contact
 
-Send an owl post to connect:
+If you'd like to connect, an owl post is always welcome.
 
 - LinkedIn: https://www.linkedin.com/in/vaishnavidixit6
 - Email: vaishnavidixit@mail.adelphi.edu
