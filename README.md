@@ -1,77 +1,37 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%">
-</p>
+# Vaishnavi Dixit
 
-<p align="center">
-  <img src="assets/divider.svg" width="60%">
-</p>
+Data Science graduate student interested in healthcare AI, applied machine learning, and useful data products.
 
-## About Me
+## Selected Projects
 
-I'm **Vaishnavi Dixit**, a Data Science graduate student who enjoys working on healthcare-focused machine learning and turning messy data into useful tools.
+### Hospital Readmission Risk Prediction
 
-<p align="center">
-  <img src="assets/divider.svg" width="60%">
-</p>
+Predicting readmission risk from clinical data.
+
+`MIMIC-IV` `Python` `FastAPI` `React` `Google BigQuery`
+
+### Healthcare Abuse Detection
+
+Using SDOH survey data to help surface potentially unreported abuse cases.
+
+`Python` `Machine Learning` `SDOH`
+
+### Jewelry E-Commerce Website
+
+Full-stack e-commerce platform with a focus on a smooth shopping experience. Prototyped and refined with a vibe-engineering workflow.
+
+`React` `FastAPI` `PostgreSQL` `Docker`
+
+### Road Infrastructure Analysis
+
+In progress: a machine learning and geospatial analysis tool for road infrastructure.
+
+`Python` `Machine Learning` `Geospatial Analysis`
 
 ## Research Interests
 
-- Healthcare AI
-- Biomedical Machine Learning
-- Responsible AI
-- Uncertainty Quantification
-- Statistical Modeling
+`Healthcare AI` · `Biomedical Machine Learning` · `Uncertainty Quantification` · `Statistical Modeling` · `Responsible AI`
 
-<p align="center">
-  <img src="assets/divider.svg" width="60%">
-</p>
+## Connect
 
-## Projects
-
-### Hospital Readmission Risk Prediction
-A readmission-risk tool built with **MIMIC-IV, Python, FastAPI, React,** and **Google BigQuery**.
-
-### Healthcare Abuse Detection
-A **Python** model using SDOH survey data to surface potentially unreported abuse cases.
-
-### Jewelry E-Commerce Website
-An e-commerce platform built with **React, FastAPI, PostgreSQL,** and **Docker**. I used a vibe-engineering workflow to prototype and refine the user experience.
-
-### Road Infrastructure Analysis *(In Progress)*
-Currently building a **Python**-based machine learning and geospatial analysis tool for road infrastructure.
-
-<p align="center">
-  <img src="assets/divider.svg" width="60%">
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vaishnavidixit6&show_icons=true&theme=dark&hide_border=true&bg_color=0B1026&title_color=D4AF37&icon_color=F8E28A&text_color=dddad8"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavidixit6&layout=compact&theme=dark&hide_border=true&bg_color=0B1026&title_color=D4AF37&text_color=dddad8"/>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="60%">
-</p>
-
-## Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vaishnavidixit6/Vaishnavidixit6/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="60%">
-</p>
-
-## Contact
-
-If you'd like to connect, an owl post is always welcome.
-
-- LinkedIn: https://www.linkedin.com/in/vaishnavidixit6
-- Email: vaishnavidixit@mail.adelphi.edu
-
-<p align="center">
-  <img src="assets/divider.svg" width="60%">
-</p>
+[LinkedIn](https://www.linkedin.com/in/vaishnavidixit6) · [Kaggle](https://www.kaggle.com/vaishnavidixit6) · [Email](mailto:vaishnavidixit@mail.adelphi.edu)
