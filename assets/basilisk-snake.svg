@@ -1,0 +1,55 @@
+<svg width="100%" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Animated basilisk snake illustration</title>
+<desc>A green basilisk serpent undulating across a dark navy background, with glowing gold eyes and a flicking crimson tongue.</desc>
+<rect x="0" y="0" width="680" height="300" fill="#0B1026"/>
+
+<path stroke="#1B4332" stroke-width="46" fill="none" stroke-linecap="round" stroke-linejoin="round"
+  d="M30,170 C100,80 170,260 240,170 C310,80 380,260 450,170 C500,115 535,130 560,150">
+  <animate attributeName="d" dur="1.8s" repeatCount="indefinite"
+    values="M30,170 C100,80 170,260 240,170 C310,80 380,260 450,170 C500,115 535,130 560,150;
+            M30,170 C100,260 170,80 240,170 C310,260 380,80 450,170 C500,185 535,170 560,150;
+            M30,170 C100,80 170,260 240,170 C310,80 380,260 450,170 C500,115 535,130 560,150"/>
+</path>
+
+<ellipse cx="70" cy="128" rx="9" ry="15" fill="#2D6A4F" opacity="0.6" transform="rotate(-35 70 128)">
+  <animate attributeName="cy" dur="1.8s" repeatCount="indefinite" values="128;172;128"/>
+</ellipse>
+<ellipse cx="140" cy="205" rx="9" ry="15" fill="#2D6A4F" opacity="0.6" transform="rotate(35 140 205)">
+  <animate attributeName="cy" dur="1.8s" repeatCount="indefinite" values="205;95;205"/>
+</ellipse>
+<ellipse cx="205" cy="120" rx="9" ry="15" fill="#2D6A4F" opacity="0.6" transform="rotate(-35 205 120)">
+  <animate attributeName="cy" dur="1.8s" repeatCount="indefinite" values="120;180;120"/>
+</ellipse>
+<ellipse cx="280" cy="205" rx="9" ry="15" fill="#2D6A4F" opacity="0.6" transform="rotate(35 280 205)">
+  <animate attributeName="cy" dur="1.8s" repeatCount="indefinite" values="205;95;205"/>
+</ellipse>
+<ellipse cx="350" cy="120" rx="9" ry="15" fill="#2D6A4F" opacity="0.6" transform="rotate(-35 350 120)">
+  <animate attributeName="cy" dur="1.8s" repeatCount="indefinite" values="120;180;120"/>
+</ellipse>
+<ellipse cx="420" cy="205" rx="9" ry="15" fill="#2D6A4F" opacity="0.6" transform="rotate(35 420 205)">
+  <animate attributeName="cy" dur="1.8s" repeatCount="indefinite" values="205;95;205"/>
+</ellipse>
+<ellipse cx="490" cy="140" rx="9" ry="15" fill="#2D6A4F" opacity="0.6" transform="rotate(-20 490 140)">
+  <animate attributeName="cy" dur="1.8s" repeatCount="indefinite" values="140;160;140"/>
+</ellipse>
+
+<ellipse cx="560" cy="150" rx="48" ry="36" fill="#1B4332"/>
+<path d="M598,150 L632,140 L632,160 Z" fill="#1B4332"/>
+
+<path stroke="#D8342E" stroke-width="2.5" fill="none" stroke-linecap="round"
+  d="M632,150 L654,140 M632,150 L654,160">
+  <animate attributeName="d" dur="3s" repeatCount="indefinite"
+    keyTimes="0;0.05;0.12;0.9;1"
+    values="M632,150 L654,140 M632,150 L654,160;
+            M632,150 L674,138 M632,150 L674,162;
+            M632,150 L654,140 M632,150 L654,160;
+            M632,150 L654,140 M632,150 L654,160;
+            M632,150 L654,140 M632,150 L654,160"/>
+</path>
+
+<circle cx="565" cy="130" r="11" fill="#D4AF37">
+  <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="1;0.6;1"/>
+</circle>
+<rect x="562" y="121" width="4" height="17" rx="2" fill="#0B1026"/>
+<circle cx="590" cy="148" r="3" fill="#1B4332"/>
+</svg>
