@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1500&color=D4AF37&center=true&vCenter=true&width=600&height=30&lines=Microsoft+Research+Data+Science+Summer+School+2025%3BEx-Intern+at+Catholic+Health+Services+of+Long+Island%3BResearch+Assistant+at+Adelphi+Summer+Institute+of+Mathematical+Epidemiology%3BPresented+at+National+Conference+on+Undergraduate+Research%3BNortheast+Regional+Honors+Council%3BAdelphi+Scholarship+and+Creative+Works+Conference%3BUndergraduate+Summer+Research+and+Creative+Works+Fellowship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1500&color=D4AF37&center=true&vCenter=true&width=600&height=30&lines=Microsoft+Research+Data+Science+Summer+School+2025%3BEx-Intern+at+Catholic+Health+Services+of+Long+Island%3BResearch+Assistant+at+Adelphi+Summer+Institute+of+Mathematical+Epidemiology%3BPresented+at+National+Conference+on+Undergraduate+Research%3BNortheast+Regional+Honors+Council+Conference%3BAdelphi+Scholarship+and+Creative+Works+Conference%3BUndergraduate+Summer+Research+and+Creative+Works+Fellowship" alt="Typing SVG" />
 </p>
 
 <p align="center">
