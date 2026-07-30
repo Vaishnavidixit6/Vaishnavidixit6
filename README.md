@@ -89,6 +89,10 @@ Mapping India's roads to the contractor responsible, funds allotted, and mainten
 
 <img src="https://img.shields.io/badge/Python-0B1026?style=for-the-badge&logo=python&logoColor=D4AF37" alt="Python"/> <img src="https://img.shields.io/badge/SQL-0B1026?style=for-the-badge&logo=postgresql&logoColor=D4AF37" alt="SQL"/> <img src="https://img.shields.io/badge/R-0B1026?style=for-the-badge&logo=r&logoColor=D4AF37" alt="R"/> <img src="https://img.shields.io/badge/Google%20BigQuery-0B1026?style=for-the-badge&logo=googlebigquery&logoColor=D4AF37" alt="BigQuery"/> <img src="https://img.shields.io/badge/MySQL-0B1026?style=for-the-badge&logo=mysql&logoColor=D4AF37" alt="MySQL"/> <img src="https://img.shields.io/badge/SQLite-0B1026?style=for-the-badge&logo=sqlite&logoColor=D4AF37" alt="SQLite"/>
 
+**Web Development**
+
+<img src="https://img.shields.io/badge/FastAPI-0B1026?style=for-the-badge&logo=fastapi&logoColor=D4AF37" alt="FastAPI"/> <img src="https://img.shields.io/badge/Django-0B1026?style=for-the-badge&logo=django&logoColor=D4AF37" alt="Django"/> <img src="https://img.shields.io/badge/React-0B1026?style=for-the-badge&logo=react&logoColor=D4AF37" alt="React"/>
+
 **Analytics & Visualization**
 
 <img src="https://img.shields.io/badge/Power%20BI-0B1026?style=for-the-badge&logo=powerbi&logoColor=D4AF37" alt="Power BI"/> <img src="https://img.shields.io/badge/Tableau-0B1026?style=for-the-badge&logo=tableau&logoColor=D4AF37" alt="Tableau"/> <img src="https://img.shields.io/badge/Excel-0B1026?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37" alt="Excel"/>
