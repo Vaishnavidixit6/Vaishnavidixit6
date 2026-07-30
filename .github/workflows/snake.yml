@@ -1,8 +1,8 @@
-name: generate basilisk snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
   workflow_dispatch: {}
   push:
     branches:
@@ -14,14 +14,15 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: generate basilisk-snake.svg
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Vaishnavidixit6
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/basilisk-snake.svg?color_snake=#40916C&color_dots=#0B1026,#1B4332,#2D6A4F,#40916C,#52B788
-      - name: push to output branch
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
