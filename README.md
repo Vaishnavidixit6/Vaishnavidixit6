@@ -112,11 +112,6 @@ Mapping India's roads to the contractor responsible, funds allotted, and mainten
 ## 🔮 The Pensieve (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavidixit6&show_icons=true&theme=transparent&hide_border=true&bg_color=0B1026&title_color=D4AF37&icon_color=D4AF37&text_color=F7F3E8" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavidixit6&layout=compact&theme=transparent&hide_border=true&bg_color=0B1026&title_color=D4AF37&text_color=F7F3E8" alt="Top Langs" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Vaishnavidixit6&hide_border=true&background=0B1026&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=F7F3E8&currStreakNum=F7F3E8&sideNums=F7F3E8&dates=C9C8C2" alt="GitHub Streak"/>
 </p>
 
