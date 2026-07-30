@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1500&color=D4AF37&center=true&vCenter=true&width=600&height=30&lines=Healthcare+%2B+Data%2C+cast+with+intent.;Turning+clinical+data+into+care.;Currently+casting%3A+Python+%2C+ML+%2C+FastAPI." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&pause=1500&color=D4AF37&center=true&vCenter=true&width=600&height=30&lines=Microsoft+Research+Data+Science+Summer+School+2025%3BEx-Intern+at+Catholic+Health+Services+of+Long+Island%3BResearch+Assistant+at+Adelphi+Summer+Institute+of+Mathematical+Epidemiology%3BPresented+at+National+Conference+on+Undergraduate+Research%3BNortheast+Regional+Honors+Council%3BAdelphi+Scholarship+and+Creative+Works+Conference%3BUndergraduate+Summer+Research+and+Creative+Works+Fellowship" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,9 +24,11 @@ class VaishnaviDixit:
     mission     = "Use data to make healthcare more predictive, accessible, affordable"
 
     currently_casting = [
-        "🏥 Predicting hospital readmission risk from clinical data",
-        "🩺 Surfacing potentially unreported abuse cases from SDOH survey data",
-        "🛣️  Geospatial ML for road infrastructure analysis",
+        "Analyzing uncertainty in predictive models",
+        "Learning Time Series analysis",
+        "Learning Exploring Generative AI",
+        "Learning Multivariate analysis",
+        "Making Road Infrastructure Project transparent",
     ]
 
     research_interests = [
@@ -142,4 +144,4 @@ Open to conversations, collaboration, and the occasional owl post.
   <a href="mailto:vaishnavidixit@mail.adelphi.edu"><img src="https://img.shields.io/badge/Email-0B1026?style=for-the-badge&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
 </p>
 
-<p align="center"><i>"Predictive. Accessible. Affordable. — one model at a time."</i></p>
+<p align="center"><i>"A confident model isn't always a correct one."</i></p>
