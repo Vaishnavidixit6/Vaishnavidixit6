@@ -78,7 +78,7 @@ Mapping India's roads to the contractor responsible, funds allotted, and mainten
 
 | 🏅 | Detail |
 |---|---|
-| 📝 | Research article under review — *ASA CHANCE Magazine* |
+| 📝 | Research article under review — *American Statistical Association CHANCE Magazine* |
 | 🎤 | Presenter — NCUR 2025 · Northeast Regional Honors Council Conference · Adelphi Scholarship & Creative Works Conference |
 | 🥉 | Third Place — Nexus Tantra 2K26 |
 | 💻 | Participant — Cornell Health Hackathon |
