@@ -129,7 +129,7 @@ Mapping India's roads to the contractor responsible, funds allotted, and mainten
 ## 🐍 The Familiar (Contribution Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vaishnavidixit6/Vaishnavidixit6/output/basilisk-snake.svg" alt="Basilisk Snake"/>
+  <img src="https://raw.githubusercontent.com/Vaishnavidixit6/Vaishnavidixit6/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
 <img src="assets/divider.svg" width="100%">
